@@ -8,6 +8,7 @@
 Skilled In: 
 ![image](https://github.com/user-attachments/assets/6858f062-72e7-4858-94d0-af16a6543a84)
 ![image](https://github.com/user-attachments/assets/b9445c8c-9d2d-4899-adc0-13c3dbb44268)
+![image](https://github.com/user-attachments/assets/d9ea14d9-28f9-4800-8816-88273d27855c)
 
 
 
