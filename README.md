@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on Latest Frontend Technologies
 
 ## Let's Connect
-  - Linkedin:https://www.linkedin.com/in/aaditharshalbaldha/
+  - Linkedin: https://www.linkedin.com/in/aaditharshalbaldha/
   - Email: aaditbaldha2002@gmail.com
   
 <!--
