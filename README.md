@@ -5,7 +5,8 @@
 
 
 
-Skilled In:
+Skilled In: ![image](https://github.com/user-attachments/assets/6858f062-72e7-4858-94d0-af16a6543a84)
+
 
 
 
