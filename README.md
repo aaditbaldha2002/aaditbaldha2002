@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aadit
 
-My Name is Aadit Harshal Baldha, Frontend Developer
-Stevens MSCS Graduate Student(Hoboken, NJ, USA)
+- Frontend Developer
+- Stevens MSCS Graduate Student(Hoboken, NJ, USA)
 
 
 
@@ -12,7 +12,7 @@ Skilled In:
 
 
 
-- 🔭 I’m currently working on my Portfolio Project
+- 🔭 I’m currently working on my Portfolio Project. Link: https://github.com/aaditbaldha2002/Portfolio
 - 🌱 I’m currently learning about Next JS
 - 👯 I’m looking to collaborate on Latest Frontend Technologies
 
