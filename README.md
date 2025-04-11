@@ -1,4 +1,6 @@
-[![image](https://github.com/user-attachments/assets/e4759e6f-7390-4855-9bbb-b6354f8f81bd)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
+![animi](https://github.com/user-attachments/assets/022b0f23-f108-4a18-b9a2-804bc35d3823)
+
 
 ## Hi there 👋 I'm Aadit
 
