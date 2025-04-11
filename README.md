@@ -1,5 +1,4 @@
-
-![animi](https://github.com/user-attachments/assets/022b0f23-f108-4a18-b9a2-804bc35d3823)
+![banner](https://github.com/user-attachments/assets/36ade3f3-9f7f-4b97-9139-eca5db6127ac)
 
 
 ## Hi there 👋 I'm Aadit
