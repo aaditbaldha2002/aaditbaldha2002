@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaditbaldha2002&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditbaldha2002&hide_border=true&theme=radical" />	
+</p>
+
 ![banner](https://github.com/user-attachments/assets/36ade3f3-9f7f-4b97-9139-eca5db6127ac)
 
 
@@ -30,6 +35,7 @@
 - 🔭 I’m currently working on my Portfolio Project. Link: https://github.com/aaditbaldha2002/Portfolio
 - 🌱 I’m currently learning about Next JS
 - 👯 I’m looking to collaborate on Latest Frontend Technologies
+
 
 ## Let's Connect
   - Linkedin: https://www.linkedin.com/in/aaditharshalbaldha/
