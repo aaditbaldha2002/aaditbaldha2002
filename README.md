@@ -50,7 +50,6 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 - 🌐 [Portfolio Website](#) (coming soon)
 - 💼 [LinkedIn](https://linkedin.com/in/aaditbaldha)
-- 🧠 [Kaggle](https://www.kaggle.com/)
 - 📩 Email: `aaditbaldha2002@gmail.com`
 
 ---
