@@ -33,14 +33,6 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ## 📊 Featured Projects
 
-### 🔍 Mental Fatigue Prediction via Typing Patterns
-> **Tech:** `Python`, `scikit-learn`, `SHAP`, `pandas`, `FastAPI`  
-> Built an ML pipeline to detect early signs of mental fatigue from user typing behavior. Integrated SHAP for explainability and deployed the API for real-time predictions.
-
-### 📦 Takeaway Ordering Backend
-> **Tech:** `FastAPI`, `Pydantic`, `PostgreSQL`, `Docker`  
-> RESTful API for a takeaway service featuring user management, menu CRUD, and order tracking with CI/CD pipeline using GitHub Actions.
-
 ### 🧾 Bankruptcy Risk Prediction
 > **Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`  
 > Explored financial KPIs and engineered composite ratios to improve prediction of bankruptcy risk. Achieved 90%+ ROC AUC with tuned ensemble models.
@@ -49,6 +41,9 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 > **Tech:** `NLTK`, `scikit-learn`, `TextBlob`  
 > Built a sentiment classification model for blog comments, integrated it into a frontend app during an internship to filter user engagement quality.
 
+### Mining Misconceptions in Mathematics
+> **Tech:** `NLTK`,`Hugging-Face Transformers`,`scikit-learn`,`pandas`,`TextBlob`
+> Built a transformer model for ranking relevant misconceptions to respective Multiple Choice Quetion's options provided
 ---
 
 ## 📫 Let’s Connect
