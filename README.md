@@ -56,9 +56,9 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ### 📈 GitHub Stats
 
-![Aadit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditbaldha&show_icons=true&theme=radical)
+![Aadit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditbaldha2002&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditbaldha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditbaldha2002&layout=compact&theme=radical)
 
 ---
 
