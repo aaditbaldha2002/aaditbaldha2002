@@ -1,59 +1,74 @@
-<div align="center" style="margin-bottom: 20px;">
-  <img width="100%" src="https://github.com/user-attachments/assets/36ade3f3-9f7f-4b97-9139-eca5db6127ac" alt="Aadit Baldha Banner" />
-</div>
+# 👋 Hi, I’m Aadit Baldha
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditbaldha2002&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditbaldha2002&hide_border=true&theme=radical" alt="GitHub Streak" />
-</div>
+### 👨‍💻 Machine Learning Engineer | MSCS @ Stevens Institute of Technology | Data-Driven Problem Solver | Clean Code Enthusiast
 
 ---
 
-## 👋 Hello! I'm Aadit Baldha
-
-🎯 **Frontend Developer | M.S. in Computer Science — Stevens Institute of Technology (Hoboken, NJ, USA)**
-
-I specialize in creating modern, performant, and visually engaging web experiences using cutting-edge technologies. Passionate about UI/UX design, component-driven architecture, and scalable frontend ecosystems.
+Welcome to my GitHub — a curated portfolio of my work in machine learning, data analytics, backend APIs, and full-stack experimentation. I believe in building scalable, maintainable, and explainable ML systems that solve real-world problems.
 
 ---
 
-## 🧠 Core Competencies
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/6858f062-72e7-4858-94d0-af16a6543a84" alt="HTML" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b9445c8c-9d2d-4899-adc0-13c3dbb44268" alt="CSS" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d9ea14d9-28f9-4800-8816-88273d27855c" alt="JavaScript" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/148bdfea-624b-4317-b875-9405b4cb6bba" alt="React" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ff30c946-023b-47ea-8f37-c114fd4b5868" alt="TypeScript" height="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/8f5e41a2-edc8-47c4-8524-70f68d14b782" alt="Tailwind CSS" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f5513f7b-e460-41f4-b596-b03cfa2cd03e" alt="Material UI" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4fdc5dd4-2534-4e7c-9c89-b96fdce9f9de" alt="GitHub" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/030c0598-7c66-4fa1-b7c3-f094bdc9b413" alt="VSCode" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1ece405d-a7fa-468e-9b7e-ca877a1916f4" alt="Figma" height="40"/></td>
-  </tr>
-</table>
+- 🎓 **Graduate Student** in Computer Science with a focus on Machine Learning and Systems at **Stevens Institute of Technology**
+- 🧠 Passionate about **ML pipelines**, **model interpretability**, and **deployment at scale**
+- 💼 Currently working on ML-driven applications and microservices using **FastAPI**, **Docker**, and **PostgreSQL**
+- 🧪 Experienced in building end-to-end projects: from **feature engineering** to **model deployment**
+- 🌍 Open to **research collaborations**, **internships**, and **freelance ML consulting**
 
 ---
 
-## 🚀 What I’m Working On
+## 🛠️ Tech Stack
 
-- 🔨 Building my [**Portfolio**](https://github.com/aaditbaldha2002/Portfolio) to showcase advanced frontend and deployment skills
-- 🌱 Deepening expertise in **Next.js**, SSR/ISR, and headless CMS integrations
-- 🤝 Looking to collaborate on forward-thinking UI/UX and frontend development initiatives
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaditharshalbaldha/)
-- 📧 Email: [aaditbaldha2002@gmail.com](mailto:aaditbaldha2002@gmail.com)
+| Domain                | Tools & Frameworks                                              |
+|----------------------|-----------------------------------------------------------------|
+| ML/DL                | `scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch` |
+| Data Processing      | `Pandas` • `NumPy` • `Polars` • `SQL` • `Bash`                    |
+| MLOps/Deployment     | `FastAPI` • `Docker` • `GitHub Actions` • `AWS EC2` • `PostgreSQL` |
+| Visualization        | `Matplotlib` • `Seaborn` • `Plotly` • `Power BI` (optional)       |
+| Version Control      | `Git` • `GitHub` • `Git CLI`                                      |
+| IDEs/Tools           | `VSCode` • `Jupyter` • `PyCharm`                                  |
 
 ---
 
-<!-- Profile README metadata -->
-<!--
-**aaditbaldha2002/aaditbaldha2002** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+## 📊 Featured Projects
+
+### 🔍 Mental Fatigue Prediction via Typing Patterns
+> **Tech:** `Python`, `scikit-learn`, `SHAP`, `pandas`, `FastAPI`  
+> Built an ML pipeline to detect early signs of mental fatigue from user typing behavior. Integrated SHAP for explainability and deployed the API for real-time predictions.
+
+### 📦 Takeaway Ordering Backend
+> **Tech:** `FastAPI`, `Pydantic`, `PostgreSQL`, `Docker`  
+> RESTful API for a takeaway service featuring user management, menu CRUD, and order tracking with CI/CD pipeline using GitHub Actions.
+
+### 🧾 Bankruptcy Risk Prediction
+> **Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`  
+> Explored financial KPIs and engineered composite ratios to improve prediction of bankruptcy risk. Achieved 90%+ ROC AUC with tuned ensemble models.
+
+### 🤖 NLP Blog Sentiment Analysis
+> **Tech:** `NLTK`, `scikit-learn`, `TextBlob`  
+> Built a sentiment classification model for blog comments, integrated it into a frontend app during an internship to filter user engagement quality.
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](#) (coming soon)
+- 💼 [LinkedIn](https://linkedin.com/in/aaditbaldha)
+- 🧠 [Kaggle](https://www.kaggle.com/)
+- 📩 Email: `aaditbaldha2002@gmail.com`
+
+---
+
+### 📈 GitHub Stats
+
+![Aadit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditbaldha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditbaldha&layout=compact&theme=radical)
+
+---
+
+### ⚡ Motto
+
+> _“Code like a scientist, think like an architect, and deliver like an engineer.”_
+
