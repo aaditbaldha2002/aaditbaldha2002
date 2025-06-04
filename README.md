@@ -62,7 +62,3 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ---
 
-### ⚡ Motto
-
-> _“Code like a scientist, think like an architect, and deliver like an engineer.”_
-
