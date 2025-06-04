@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aadit Baldha
 
-### 👨‍💻 Machine Learning Engineer | MSCS @ Stevens Institute of Technology | Data-Driven Problem Solver | Clean Code Enthusiast
+### 👨‍💻 Machine Learning Engineer | MSCS @ Stevens Institute of Technology | Data-Driven Problem Solver
 
 ---
 
