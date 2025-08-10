@@ -35,7 +35,7 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ### 📉 [Bankruptcy Risk Prediction](https://github.com/aaditbaldha2002/ML_Project_Spring_2025)
 **Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`, `AWS Lambda`  
-Developed a comprehensive bankruptcy risk prediction pipeline utilizing financial KPIs and engineered composite ratios. Achieved 90%+ ROC AUC with optimized ensemble models. Implemented automated hyperparameter tuning with Optuna and deployed scalable inference on AWS Lambda.
+Developed a comprehensive bankruptcy risk prediction pipeline utilizing financial KPIs and engineered composite ratios. Implemented automated hyperparameter tuning with Optuna and deployed scalable inference on AWS Lambda.
 
 ### 📞 [Telco Customer Churn Prediction](https://github.com/aaditbaldha2002/Telco-Customer-Churn)  
 **Tech:** `XGBoost`, `FastAPI`, `MLflow`, `ZenML`, `AWS Lambda`, `GitHub Actions`, `DVC`  
