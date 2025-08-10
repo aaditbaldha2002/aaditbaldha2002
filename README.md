@@ -14,7 +14,7 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 - 🧠 Passionate about **ML pipelines**, **model interpretability**, and **deployment at scale**
 - 💼 Currently working on ML-driven applications and microservices using **FastAPI**, **Docker**, and **PostgreSQL**
 - 🧪 Experienced in building end-to-end projects: from **feature engineering** to **model deployment**
-- 🌍 Open to **research collaborations**, **internships**, and **freelance ML consulting**
+- 🌍 Open to **research collaborations**, **internships**, **Job Opportunities**
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 | ML/DL                | `scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch` |
 | Data Processing      | `Pandas` • `NumPy` • `Polars` • `SQL` • `Bash`                    |
 | MLOps/Deployment     | `FastAPI` • `Docker` • `GitHub Actions` • `AWS EC2` • `PostgreSQL` |
-| Visualization        | `Matplotlib` • `Seaborn` • `Plotly` • `Power BI` (optional)       |
+| Visualization        | `Matplotlib` • `Seaborn` • `Plotly`      |
 | Version Control      | `Git` • `GitHub` • `Git CLI`                                      |
 | IDEs/Tools           | `VSCode` • `Jupyter` • `PyCharm`                                  |
 
@@ -33,18 +33,17 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ## 📊 Featured Projects
 
-### 🧾 Bankruptcy Risk Prediction
-> **Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`  
-> Explored financial KPIs and engineered composite ratios to improve prediction of bankruptcy risk. Achieved 90%+ ROC AUC with tuned ensemble models.
+### 📉 Bankruptcy Risk Prediction
+**Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`, `AWS Lambda`  
+Developed a comprehensive bankruptcy risk prediction pipeline utilizing financial KPIs and engineered composite ratios. Achieved 90%+ ROC AUC with optimized ensemble models. Implemented automated hyperparameter tuning with Optuna and deployed scalable inference on AWS Lambda.
 
-### 🤖 NLP Blog Sentiment Analysis
-> **Tech:** `NLTK`, `scikit-learn`, `TextBlob`  
-> Built a sentiment classification model for blog comments, integrated it into a frontend app during an internship to filter user engagement quality.
+### 📞 Telco Customer Churn Prediction  
+**Tech:** `XGBoost`, `FastAPI`, `MLflow`, `ZenML`, `AWS Lambda`, `GitHub Actions`, `DVC`  
+Built a fully automated MLOps workflow for telecom customer churn prediction. Features include scheduled retraining via GitHub Actions, experiment tracking with MLflow, artifact versioning with DVC and AWS S3, and serverless deployment using FastAPI on AWS Lambda for real-time inference.
 
-### Mining Misconceptions in Mathematics
-> **Tech:** `NLTK`,`Hugging-Face Transformers`,`scikit-learn`,`pandas`,`TextBlob`
-> Built a transformer model for ranking relevant misconceptions to respective Multiple Choice Quetion's options provided
----
+### 🧮 Mining Misconceptions in Mathematics  
+**Tech:** `Transformers (Hugging Face)`, `NLTK`, `scikit-learn`, `pandas`, `TextBlob`  
+Designed a transformer-based model to rank relevant misconceptions aligned with multiple-choice math questions. Enhanced educational assessments by accurately identifying student misunderstandings.
 
 ## 📫 Let’s Connect
 
