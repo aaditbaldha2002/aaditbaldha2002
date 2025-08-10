@@ -33,15 +33,15 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ## 📊 Featured Projects
 
-### 📉 Bankruptcy Risk Prediction
+### 📉 [Bankruptcy Risk Prediction](https://github.com/aaditbaldha2002/ML_Project_Spring_2025)
 **Tech:** `XGBoost`, `SMOTE`, `Optuna`, `Pandas Profiling`, `AWS Lambda`  
 Developed a comprehensive bankruptcy risk prediction pipeline utilizing financial KPIs and engineered composite ratios. Achieved 90%+ ROC AUC with optimized ensemble models. Implemented automated hyperparameter tuning with Optuna and deployed scalable inference on AWS Lambda.
 
-### 📞 Telco Customer Churn Prediction  
+### 📞 [Telco Customer Churn Prediction](https://github.com/aaditbaldha2002/Telco-Customer-Churn)  
 **Tech:** `XGBoost`, `FastAPI`, `MLflow`, `ZenML`, `AWS Lambda`, `GitHub Actions`, `DVC`  
 Built a fully automated MLOps workflow for telecom customer churn prediction. Features include scheduled retraining via GitHub Actions, experiment tracking with MLflow, artifact versioning with DVC and AWS S3, and serverless deployment using FastAPI on AWS Lambda for real-time inference.
 
-### 🧮 Mining Misconceptions in Mathematics  
+### 🧮 [Mining Misconceptions in Mathematics](https://github.com/aaditbaldha2002/Mining_Misconception_in_Mathematics)  
 **Tech:** `Transformers (Hugging Face)`, `NLTK`, `scikit-learn`, `pandas`, `TextBlob`  
 Designed a transformer-based model to rank relevant misconceptions aligned with multiple-choice math questions. Enhanced educational assessments by accurately identifying student misunderstandings.
 
