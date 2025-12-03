@@ -54,6 +54,6 @@ Designed a transformer-based model to rank relevant misconceptions aligned with 
 
 ### 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditbaldha2002)](https://github.com/aaditbaldha2002/github-readme-stats)
+[![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditbaldha2002)](https://github.com/aaditbaldha2002/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditbaldha2002&layout=compact&theme=radical)
