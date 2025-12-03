@@ -54,11 +54,10 @@ Designed a transformer-based model to rank relevant misconceptions aligned with 
 
 ### 📈 GitHub Stats
 
-![Aadit's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aaditbaldha2002&show_icons=true&theme=github_dark&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=86400)
+![Aadit's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aaditbaldha2002&show_icons=true&theme=github_dark&bg_color=00000000&title_color=2F80ED&text_color=FFFFFF&icon_color=2F80ED&cache_seconds=86400)
 
-![Aadit's GitHub details](https://github-readme-stats-eight-theta.vercel.app/api?username=aaditbaldha2002&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaditbaldha2002&layout=compact&theme=github_dark&bg_color=00000000&title_color=2F80ED&text_color=FFFFFF&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaditbaldha2002&layout=compact&theme=github_dark&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400)
 
 
 
