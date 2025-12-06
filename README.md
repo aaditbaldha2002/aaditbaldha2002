@@ -49,7 +49,7 @@ Designed a transformer-based model to rank relevant misconceptions aligned with 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaditharshalbaldha/)
 - 📩 Email: `aaditbaldha2002@gmail.com`
-
+- [Portfolio](https://d296qslz2itqe3.cloudfront.net/)
 ---
 
 ### 📈 GitHub Stats
