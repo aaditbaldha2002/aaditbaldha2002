@@ -22,10 +22,10 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 | Domain                | Tools & Frameworks                                              |
 |----------------------|-----------------------------------------------------------------|
-| ML/DL                | `scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch` |
+| ML/DL                | `scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch`,`Keras`,`MLFlow`,`DVC` |
 | Data Processing      | `Pandas` • `NumPy` • `Polars` • `SQL` • `Bash`                    |
-| MLOps/Deployment     | `FastAPI` • `Docker` • `GitHub Actions` • `AWS EC2` • `PostgreSQL` |
-| Visualization        | `Matplotlib` • `Seaborn` • `Plotly`      |
+| MLOps/Deployment     | `FastAPI` • `Docker` • `GitHub Actions` • `AWS` • `PostgreSQL`,`ZenML` |
+| Visualization        | `Matplotlib` • `Seaborn` • `Tableau`     |
 | Version Control      | `Git` • `GitHub` • `Git CLI`                                      |
 | IDEs/Tools           | `VSCode` • `Jupyter` • `PyCharm`                                  |
 
