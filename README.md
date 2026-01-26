@@ -10,11 +10,12 @@ Welcome to my GitHub — a curated portfolio of my work in machine learning, dat
 
 ## 🚀 About Me
 
-- 🎓 **Graduate Student** in Computer Science with a focus on Machine Learning and Systems at **Stevens Institute of Technology**
-- 🧠 Passionate about **ML pipelines**, **model interpretability**, and **deployment at scale**
-- 💼 Currently working on ML-driven applications and microservices using **FastAPI**, **Docker**, and **PostgreSQL**
-- 🧪 Experienced in building end-to-end projects: from **feature engineering** to **model deployment**
-- 🌍 Open to **research collaborations**, **internships**, **Job Opportunities**
+- 🎓 **Recent Graduate** in Computer Science with a focus on Machine Learning and Systems from **Stevens Institute of Technology**
+- 🧠 Experienced across the full data lifecycle: **data analysis**, **data science modeling**, and **ML engineering**
+- 💼 Skilled in building **end-to-end ML systems** with strong emphasis on scalable pipelines, interpretability, and production-grade deployment
+- 🛠️ Hands-on with **data analytics tools** (SQL, Pandas, Tableau), **ML frameworks** (scikit-learn, XGBoost, PyTorch), and **deployment technologies** (FastAPI, Docker, AWS, PostgreSQL)
+- 🌍 Open to **research collaborations**, **internships**, and **job opportunities**
+
 
 ---
 
@@ -44,6 +45,11 @@ Built a fully automated MLOps workflow for telecom customer churn prediction. Fe
 ### 🧮 [Mining Misconceptions in Mathematics](https://github.com/aaditbaldha2002/Mining_Misconception_in_Mathematics)  
 **Tech:** `Transformers (Hugging Face)`, `NLTK`, `scikit-learn`, `pandas`, `TextBlob`  
 Designed a transformer-based model to rank relevant misconceptions aligned with multiple-choice math questions. Enhanced educational assessments by accurately identifying student misunderstandings.
+
+### 🏪 [Store Sales Forecasting & Risk Segmentation](https://github.com/aaditbaldha2002/STORE_SALES_FORECASTING)
+**Tech:** `Time Series Analysis`, `XGBoost`, `LightGBM`, `Feature Engineering`, `SQL`, `Pandas`, `AWS`
+Built an end-to-end store-level sales forecasting system that predicts **weekly sales** across departments and provides **risk segmentation** for operational planning.
+
 
 ## 📫 Let’s Connect
 
