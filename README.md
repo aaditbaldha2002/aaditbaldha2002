@@ -46,7 +46,7 @@ Built a fully automated MLOps workflow for telecom customer churn prediction. Fe
 **Tech:** `Transformers (Hugging Face)`, `NLTK`, `scikit-learn`, `pandas`, `TextBlob`  
 Designed a transformer-based model to rank relevant misconceptions aligned with multiple-choice math questions. Enhanced educational assessments by accurately identifying student misunderstandings.
 
-### 🏪 [Store Sales Forecasting & Risk Segmentation]([https://github.com/aaditbaldha2002/STORE_SALES_FORECASTING](https://github.com/aaditbaldha2002/Store-Sales-Forecasting))
+### 🏪 [Store Sales Forecasting & Risk Segmentation](https://github.com/aaditbaldha2002/Store-Sales-Forecasting)
 **Tech:** `Time Series Analysis`, `XGBoost`, `LightGBM`, `Feature Engineering`, `SQL`, `Pandas`, `AWS`
 Built an end-to-end store-level sales forecasting system that predicts **weekly sales** across departments and provides **risk segmentation** for operational planning.
 
